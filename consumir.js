@@ -1,3 +1,3 @@
-import cumprimentei from "./cumprimentar.js";
+import cumprimentei from "./cumprimentar.mjs";
 
 console.log(cumprimentei)
